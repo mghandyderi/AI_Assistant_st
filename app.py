@@ -6,7 +6,7 @@ st.set_page_config(
     page_icon="🤖"
 )
 
-st.title("AI Assistant streamlit lib")
+st.title("AI Assistant streamlit")
 
 # API Key من Secrets
 api_key = st.secrets["OPENROUTER_API_KEY"]
